@@ -1,0 +1,9 @@
+Package: com.neinzedd9.notchhider
+Name: NotchHider
+Depends: mobilesubstrate
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Hide the notch easily in settings.
+Maintainer: NeinZedd9
+Author: NeinZedd9
+Section: Tweaks
